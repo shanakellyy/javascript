@@ -1,0 +1,38 @@
+body {
+  background: #7eb681;
+  font: normal 16px/1.5 sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+main {
+  background: white;
+  border-radius: 10px;
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.253);
+}
+
+section {
+  text-align: center;
+}
+
+img {
+  padding: 20px;
+  margin-top: 10px;
+}
+
+#msg {
+  font-size: 1.2em;
+  margin-top: 10px;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
